@@ -1,0 +1,11 @@
+.appContainer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 50px;
+}
+.mobileScreen{
+  width: 360px;
+  border-radius: 20px;
+  border: 7px solid white;
+}
